@@ -18,29 +18,29 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="serif"
-        android:text="TITLE"
+        android:text="WALK THIS WAY"
         android:textSize="24sp"
-        tools:layout_editor_absoluteX="158dp"
-        tools:layout_editor_absoluteY="288dp"
-        tools:text="TITLE" />
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="290dp"
+        tools:text="WALK THIS WAY" />
 
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Location:"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="339dp"
-        tools:text="Location:" />
+        android:text="  Location: Santa Clara St Fort Santiago, Intramuros,   Manila, Luzon 1008 Philippines"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="337dp"
+        tools:text="  Location: Santa Clara St Fort Santiago, Intramuros, Manila,    Luzon 1008 Philippines" />
 
     <TextView
         android:id="@+id/textView9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Distance from UST:"
-        tools:layout_editor_absoluteX="16dp"
+        android:text="  Distance from UST: 3.8km"
+        tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="379dp"
-        tools:text="Distance from UST:" />
+        tools:text="  Distance from UST: 3.8km" />
 
     <Button
         android:id="@+id/button5"
